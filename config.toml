@@ -1,0 +1,7 @@
+baseURL = "http://example.org/"
+languageCode = "en-us"
+title = "Cofoca"
+theme = "newsroom"
+
+[markup.goldmark.renderer]
+unsafe = true
