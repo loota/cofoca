@@ -1,4 +1,4 @@
-baseURL = "http://example.org/"
+baseURL = "https://clever-hermann-f9f030.netlify.app"
 languageCode = "en-us"
 title = "Cofoca"
 theme = "newsroom"
