@@ -3,7 +3,9 @@ title: "Croatia"
 date: 2021-01-29T16:13:53+02:00
 draft: false
 image: "3481600301_dd603acdfa_b.jpg"
+summary: Tempting
 ---
+## Hrana
 * Black risotto
 * Boškarin
 * Brodetto
@@ -16,6 +18,17 @@ image: "3481600301_dd603acdfa_b.jpg"
 * Truffles
 * Raw seafood
 * Olive oil
+
+## Kavu
+* Idemo na kavu
+* Kava s hladnim mlijekom
+* Caffe late
+* Bijela kava
+
+## Pića
+* Bambus
+* Miš-maš
+* Kombinacija
 
 The image <a href="https://www.flickr.com/photos/26329758@N02/3481600301">"Croatia"</a>
 <span>

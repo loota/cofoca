@@ -3,8 +3,10 @@ title: "Japan"
 date: 2021-01-29T16:23:51+02:00
 draft: false
 image: "11663606936_717bc3108a_b.jpg"
+summary: Remarkable
 ---
 
+## Fūdo フード
 * Sushi
 * Udon
 * Tofu
@@ -15,6 +17,11 @@ image: "11663606936_717bc3108a_b.jpg"
 * Donburi
 * Natto
 * Oden
+
+## Kōhī
+* コーヒー Kōhī 
+* カフェラテ Kafe Rate
+* こーひー を ひとつ ください Kōhī wo hitotsu kudasai
 
 The image <a href="https://www.flickr.com/photos/55199708@N00/11663606936">"Japan"</a>
 <span>
