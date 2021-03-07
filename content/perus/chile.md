@@ -5,7 +5,23 @@ draft: false
 image: "chile.jpg"
 summary: Mountainous
 ---
+## Comida
+* Empanadas
+* Humitas
+* Pastel de choclo
+* Completos
+* Ceviche
+* Asado
+* Charquican
+* Chorillana
+* Cazuela
+* Caldillo de congrio
 
+## Café
+* Café con piernas
+
+## Té
+* Mate (chimarrão, cimarrón)
 The image
 <a href="https://www.flickr.com/photos/10328645@N06/862384305">
   "santiago chile"
